@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/sudong0701/sudong0701">
-  <img align="right" height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudong0701&layout=compact" />
+  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudong0701&layout=compact" />
 </a>
 
 <a href="https://github.com/sudong0701/sudong0701" style="margin-top: 15px">
