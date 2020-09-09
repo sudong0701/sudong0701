@@ -5,7 +5,7 @@
 <!-- </a> -->
 
 <!-- <a href="https://github.com/sudong0701/sudong0701"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudong0701&layout=compact"  style=' width:300px;height:100 px'>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudong0701&layout=compact"  style=' width:300px;height:100 px'>
 <!-- </a> -->
 
 
